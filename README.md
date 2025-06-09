@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Son, a passionate developer with a love for game development and optimization. I enjoy working on various projects and continuously learning new skills. I frequently update the "leeter" repo, which has my work for various Leetcode problems. Feel free to explore my repositories and connect with me!
+
+
+📫 How to reach me: Tintintrashbin on Discord
+
 <!--
 **Tintinnit/Tintinnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
